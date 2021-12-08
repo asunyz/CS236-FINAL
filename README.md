@@ -1,18 +1,21 @@
+# For CS236 Final Project
+These codes are modified from: https://github.com/utkarshojha/few-shot-gan-adaptation
+My modifications are in train.py and model.py. 
+
+
+
+--- Below are documentation from the Original Github ---
 # Few-shot Image Generation via Cross-domain Correspondence
 
 [Utkarsh Ojha](https://utkarshojha.github.io/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Richard Zhang](https://richzhang.github.io/)
 
 Adobe Research, UC Davis, UC Berkeley
 
-![teaser](https://github.com/utkarshojha/few-shot-gan-adaptation/blob/gh-pages/resources/concept.gif)
-
 PyTorch implementation of adapting a source GAN (trained on a large dataset) to a target domain using very few images.
 
 ### [Project page](https://utkarshojha.github.io/few-shot-gan-adaptation/) | [Paper](https://arxiv.org/abs/2104.06820)
 
 ## Overview
-
-<img src='imgs/method_diagram.png' width="840px"/>
 
 Our method helps adapt the source GAN where one-to-one correspondence is preserved between the source G<sub>s</sub>(z) and target G<sub>t</sub>(z) images.
 
