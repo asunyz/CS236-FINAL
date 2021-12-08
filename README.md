@@ -5,7 +5,7 @@ My modifications are in train.py and model.py.
 
 
 
---- Below are documentation from the Original Github ---
+# Below are documentation from the Original Github ---
 # Few-shot Image Generation via Cross-domain Correspondence
 
 [Utkarsh Ojha](https://utkarshojha.github.io/), [Yijun Li](https://yijunmaverick.github.io/), [Jingwan Lu](https://research.adobe.com/person/jingwan-lu/), [Alexei A. Efros](https://people.eecs.berkeley.edu/~efros/), [Yong Jae Lee](https://web.cs.ucdavis.edu/~yjlee/), [Eli Shechtman](https://research.adobe.com/person/eli-shechtman/), [Richard Zhang](https://richzhang.github.io/)
