@@ -1,5 +1,6 @@
 # For CS236 Final Project
 These codes are modified from: https://github.com/utkarshojha/few-shot-gan-adaptation
+
 My modifications are in train.py and model.py. 
 
 
